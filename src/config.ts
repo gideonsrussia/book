@@ -48,10 +48,10 @@ export type Sidebar = Record<
 export const SIDEBAR: Sidebar = {
 	ru: {
 		'Section Header': [
-			{ text: 'Introduction', link: 'ru/introduction' },
-			{ text: 'Page 2', link: 'ru/page-2' },
-			{ text: 'Page 3', link: 'ru/page-3' },
+			{ text: 'Introduction', link: 'book/ru/introduction' },
+			{ text: 'Page 2', link: 'book/ru/page-2' },
+			{ text: 'Page 3', link: 'book/ru/page-3' },
 		],
-		'Another Section': [{ text: 'Page 4', link: 'ru/page-4' }],
+		'Another Section': [{ text: 'Page 4', link: 'book/ru/page-4' }],
 	},
 };
