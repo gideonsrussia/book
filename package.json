@@ -12,10 +12,12 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/preact": "^0.2.0",
+    "@types/node": "^18.0.0",
     "astro": "^1.9.0",
-    "preact": "^10.7.3",
-    "@astrojs/preact": "^1.2.0",
-    "@types/node": "^18.0.0"
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "preact": "^10.7.3"
   },
   "devDependencies": {
     "html-escaper": "^3.0.3"
